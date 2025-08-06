@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: eduardoalvesmelo1982/webacademy:latest
+          tags: moisesgc/webacademy:latest
