@@ -23,7 +23,7 @@ build:
         context: ./
         push: true
         #dockerfile: ./Dockerfile   # Specify the path to your Dockerfile
-        tags: moisesgc/webacademy:latest
+        tags: eduardoalvesmelo1982/webacademy:latest
 deploy:
   runs-on: ubuntu-latest
   steps:
